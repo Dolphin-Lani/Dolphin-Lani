@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Thulani
 
-<!--
-**Dolphin-Lani/Dolphin-Lani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer • Builder • Research-Driven
+🚀 Creating scalable software and exploring complex systems
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build software that solves real-world problems, with a strong focus on scalability, reliability, and user experience. My work spans mobile, backend, and data-driven systems.
+
+Alongside development, I actively conduct independent research in areas related to software architecture, databases, and efficient system design. I’m particularly interested in how theoretical ideas translate into practical, production-ready solutions.
+
+🔬 Current Focus
+
+Building a service-oriented digital platform
+
+Backend engineering and system architecture
+
+Database design and performance optimization
+
+Applied research in software systems and data modeling
+
+Continuous learning and experimentation
+
+🛠️ Technology Stack
+Languages
+
+Just say the vibe you want.
