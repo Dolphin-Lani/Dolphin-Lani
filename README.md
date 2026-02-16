@@ -1,14 +1,14 @@
 ```text
  _          ___      _   _   ___
 | |        /   \    | \ | | |_ _|
-| |       / /_\ \   |  \| |  | |
+| |       / /_\ \   |  \| |  | |  .io
 | |___   /  _  \    | |\  |  | |
 |_____| /_/ \_\_\   |_| \_| |___|
 ```
 
 > booting profile...
 > loading modules...
-> status: ONLINE
+> status: Ayoba
 
 ## `system_info`
 
