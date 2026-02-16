@@ -1,62 +1,76 @@
-# `thulani@dev:~$ whoami`
+```text
+ _          ___      _   _   ___
+| |        /   \    | \ | | |_ _|
+| |       / /_\ \   |  \| |  | |
+| |___   /  _  \    | |\  |  | |
+|_____| /_/ \_\_\   |_| \_| |___|
+```
+
+> booting profile...
+> loading modules...
+> status: ONLINE
+
+## `system_info`
 
 ```bash
-Hi, I'm Lani
+$ cat /proc/profile
 
-💼 Product Engineer
-💻 Developer • Builder • Research-Driven
-🚀 Creating scalable software and exploring complex systems
+name        : Lani
+role        : developer / builder / researcher
+focus       : scalable software systems
+environment : linux
+philosophy  : practical, production-ready solutions
 ```
 
-## `thulani@dev:~$ cat about_me.md`
+## `current_operations`
 
-I design and build software that solves real-world problems, with a strong focus on scalability, reliability, and user experience. My work spans mobile, backend, and data-driven systems.
+```bash
+$ ps aux | grep operations
 
-Alongside development, I actively conduct independent research in areas related to software architecture, databases, and efficient system design. I’m particularly interested in how theoretical ideas translate into practical, production-ready solutions.
-
-## `thulani@dev:~$ ls current_focus/`
-
-```text
-- Building a service-oriented digital platform
-- Backend engineering and system architecture
-- Database design and performance optimization
-- Applied research in software systems and data modeling
-- Continuous learning and experimentation
+- designing and iterating on a service-oriented platform
+- building backend services with reliability and scale in mind
+- refining architecture and delivery workflows for production systems
 ```
 
-## `thulani@dev:~$ ./tech_stack --philosophy`
+## `technology_stack`
 
-```text
-Learn deeply, implement thoughtfully
+```bash
+$ tree stack
+
+languages/
+  - dart
+  - java
+  - javascript
+  - sql
+  - go (learning)
+
+backend/
+  - node.js
+  - firebase
+
+databases/
+  - postgres
+  - firestore
+  - supabase
+
+tools/
+  - flutter
+  - react.js
+  - git
+  - linux
 ```
 
-## `thulani@dev:~$ ./tech_stack --list`
+## `research`
 
-```text
-[languages]
-- Dart
-- Java
+```bash
+$ ls research/interests
 
-[front-end]
-- React.js
-
-[backend]
-- Node.js
-- Firebase
-
-[database]
-- Postgres
-- Firestore
-- Supabase
-
-[mobile]
-- Flutter
+- scalable architectures
+- data modeling
+- database systems
+- performance optimization
+- distributed systems concepts
 ```
 
-## `thulani@dev:~$ cat currently_learning.md`
 
-```text
-- Golang
-- "Design data intensive applications"
-- "Data internals"
-```
+
