@@ -1,27 +1,62 @@
-👋 Hi, I'm Thulani
+# `thulani@dev:~$ whoami`
 
+```bash
+Hi, I'm Lani
+
+💼 Product Engineer
 💻 Developer • Builder • Research-Driven
 🚀 Creating scalable software and exploring complex systems
+```
 
-🧠 About Me
+## `thulani@dev:~$ cat about_me.md`
 
 I design and build software that solves real-world problems, with a strong focus on scalability, reliability, and user experience. My work spans mobile, backend, and data-driven systems.
 
 Alongside development, I actively conduct independent research in areas related to software architecture, databases, and efficient system design. I’m particularly interested in how theoretical ideas translate into practical, production-ready solutions.
 
-🔬 Current Focus
+## `thulani@dev:~$ ls current_focus/`
 
-Building a service-oriented digital platform
+```text
+- Building a service-oriented digital platform
+- Backend engineering and system architecture
+- Database design and performance optimization
+- Applied research in software systems and data modeling
+- Continuous learning and experimentation
+```
 
-Backend engineering and system architecture
+## `thulani@dev:~$ ./tech_stack --philosophy`
 
-Database design and performance optimization
+```text
+Learn deeply, implement thoughtfully
+```
 
-Applied research in software systems and data modeling
+## `thulani@dev:~$ ./tech_stack --list`
 
-Continuous learning and experimentation
+```text
+[languages]
+- Dart
+- Java
 
-🛠️ Technology Stack
-Languages
+[front-end]
+- React.js
 
-Just say the vibe you want.
+[backend]
+- Node.js
+- Firebase
+
+[database]
+- Postgres
+- Firestore
+- Supabase
+
+[mobile]
+- Flutter
+```
+
+## `thulani@dev:~$ cat currently_learning.md`
+
+```text
+- Golang
+- "Design data intensive applications"
+- "Data internals"
+```
